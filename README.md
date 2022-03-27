@@ -12,6 +12,8 @@ GitHub Repository: https://github.com/camryngoins/spotify-app
 Deployed App Link: https://camryngoins.github.io/spotify-app/
 
 ## Screenshot 
+![before-search](https://user-images.githubusercontent.com/96854206/160281591-45185280-3ec9-4ee2-8d60-074ca43af043.png)
+
 
 ## Created By
 [Matt Jerich](https://github.com/MJerich)  
