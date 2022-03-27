@@ -7,7 +7,9 @@ In this project our group came up with the idea of creating an application that 
 
 ## Links
 
-GitHub Repository: https://github.com/mhabbo01/spotify-group-project
+GitHub Repository: https://github.com/camryngoins/spotify-app
+
+Deployed App Link: https://camryngoins.github.io/spotify-app/
 
 ## Screenshot 
 
